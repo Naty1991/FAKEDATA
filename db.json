@@ -1,4 +1,15 @@
-"products":[
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+},
+"products": [
   {
     "id": 1,
     "title": "Muñeca 'Dolly'",
