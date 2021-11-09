@@ -42,6 +42,14 @@
     "category": "juegos-de-mesa",
     "nameCategory": "Juegos de Mesa"
     
+  },
+  {
+    "id": 4,
+    "title": "Autos de juguete",
+    "pictureUrl": "https://i.pinimg.com/564x/1d/0d/5d/1d0d5d40cf7c0d5ab78dcf8147c8bd99.jpg",
+    "category": "juegos-de-mesa",
+    "nameCategory": "Vehiculos de juguete"
+    
   }
 ]
 }
